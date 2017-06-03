@@ -11,7 +11,8 @@ Check out the [design doc](https://docs.google.com/document/d/1JSIPl1iIbJ-Knpr73
 ## Instructions
 ### Test meetup on June 26
 
-- [ ] Open issues, and pick-up 1-3 issues. If you don't have permissions to take an issue, write a comment and I'll add you to github.
+- [ ] Go to https://github.com/AngularNYC/meetup/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20no%3Aassignee
+- [ ] Pick up one issue. If you don't have permissions to take an issue, write a comment and I'll add you to the group.
 - [ ] Read the whole issue and make sure it has enough context. Feel free to edit typos, and leave comments for larger issues. 
 - [ ] Go through the check list and complete all the tasks when the appropriate time comes.
 - [ ] You organized a meetup. 
