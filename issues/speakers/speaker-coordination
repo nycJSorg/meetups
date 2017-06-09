@@ -1,0 +1,56 @@
+# Time commitment
+before the event: 1 hour
+
+# Speaker1 Role description (Torgeir Helgevold)
+ASAP: 
+- [ ] Ask @kirjs  to connect you to the speaker
+- [ ] Confirm speakers availability for 2017-06-29
+- [ ] Get speaker in the chat with all the organizers and brainstorm the exact topic details
+- [ ] Send them "the speaker message" on slack cc @kirjs (find, the text below)
+- [ ] Post  Full Name, twitter handler, photo, talk title and talk description here and reference the event host issue (#148)
+- [ ] Get video release signed and emailed to "release-form-repository@google.com" cc kirjs@google.com
+- [ ] Send a nice reminder couple of days in advance
+
+
+# Speaker2 Role description
+ASAP
+- [ ] Ask @kirjs  to connect you to the speaker
+- [ ] Reach out to them, and confirm their availability for 2017-06-29
+- [ ] Send them the speaker email (below)
+- [ ] Post  Full Name, twitter handler, photo, talk title and talk description here and reference the event host issue  (#148)
+- [ ] Get video release signed and emailed to "release-form-repository@google.com"  cc kirjs@google.com
+- [ ] Send a nice reminder couple of days in advance
+
+
+# Find a potential speaker and reach out to them 
+Check out [Speaker FAQ](https://docs.google.com/document/d/1ZIvF0g1qSmcJK99yK1tnl2LTFmYOi5g2xXodQ9RJDNs/edit#heading=h.h61pupkuj67r)
+
+# Speaker email
+
+Hi %SPEAKER_NAME%
+ 
+Looking forward to your talk at the %DATE% AngularJS NYC meetup!
+The location is %OFFICE LOCATION WITH LINK TO GOOGLE MAPS%
+ 
+You’ll be the second|first speaker, %TIME_SLOT_CONFIRM_WITH_KIRJS% please let me know if you feel strongly about going first|second). 
+ 
+Speaker's checklist:
+[ASAP] Send me the talk title, description and your photo/information (example)
+[Before the meetup] Sign the speaker release form (attached) and send it back to me.
+[Before the meetup] Add your information to the slide deck (%GET A LINK FROM SLIDE DECK PERSON%) 
+[Before the meetup] If your guests get stuck in the waitlist - let me know!
+[%DATE%] Come 15 minutes in advance (5:45) to go through the setup process.
+ 
+Additional information:
+The talks are usually 20-30 minutes.
+Our projector resolution is 720p
+We’re expecting to have 200 people at the meetup.
+We also have a [Speaker's FAQ](https://docs.google.com/document/d/1ZIvF0g1qSmcJK99yK1tnl2LTFmYOi5g2xXodQ9RJDNs/edit#heading=h.h61pupkuj67r) with more information
+ 
+Feel free to reach out to me if you have any questions.
+ 
+Thanks,
+Kirill
+
+# FAQ 
+
