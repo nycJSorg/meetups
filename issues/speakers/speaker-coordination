@@ -1,10 +1,10 @@
 # Time commitment
 before the event: 1 hour
 
-# Speaker1 Role description (Torgeir Helgevold)
+# Speaker1 Role description
 ASAP: 
 - [ ] Ask @kirjs  to connect you to the speaker
-- [ ] Confirm speakers availability for 2017-06-29
+- [ ] Confirm speakers availability for %DATE%
 - [ ] Get speaker in the chat with all the organizers and brainstorm the exact topic details
 - [ ] Send them "the speaker message" on slack cc @kirjs (find, the text below)
 - [ ] Post  Full Name, twitter handler, photo, talk title and talk description here and reference the event host issue (#148)
